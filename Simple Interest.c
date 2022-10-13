@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main(){
+printf("Registration NO.:RA2211042010004\n");
 
    float amount=50, rate=10, time=20, si;
 
