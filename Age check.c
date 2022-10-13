@@ -2,7 +2,7 @@
 #include<math.h>
 
 int main(){
-printf("Registration NO.:RA2211042010004");
+printf("Registration NO.:RA2211042010004\n");
 int age;
 int vip;
 printf("Enter your age:");
