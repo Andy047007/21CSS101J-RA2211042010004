@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-printf("Registration NO.:RA2211042010004");
+printf("Registration NO.:RA2211042010004\n");
 
 int x=4;
 int y=5;
