@@ -3,8 +3,7 @@
 //User input math operators
 
 int main(){
-printf("Registr
-ation NO.:RA2211042010004\n");
+printf("Registration NO.:RA2211042010004\n");
 
 int x , y;
 
