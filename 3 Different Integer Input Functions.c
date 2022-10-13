@@ -4,6 +4,7 @@
 
 int main(){
 
+    printf("Registration NO.:RA2211042010004");
 int x, y, z;
 printf("Input three values:");
 scanf("%d", &x);
