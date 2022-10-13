@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+printf("Registration NO.:RA2211042010004");
     char c;
     printf("Enter a character: ");
     scanf("%c", &c);
