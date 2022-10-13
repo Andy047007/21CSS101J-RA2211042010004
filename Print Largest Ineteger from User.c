@@ -3,6 +3,7 @@
 //To find and print the larger integer from user input
 
 int main(){
+printf("Registration NO.:RA2211042010004\n");
 
 int x, y;
 
