@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main(){
+printf("Registration NO.:RA2211042010004\n");
 
 int length=6;
 int base=6;
