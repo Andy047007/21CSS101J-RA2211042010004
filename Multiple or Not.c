@@ -3,6 +3,7 @@
 //To check if one integer is multiple of the other
 
 int main(){
+printf("Registration NO.:RA2211042010004\n");
 
 int x , y;
 
